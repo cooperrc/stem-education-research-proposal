@@ -12,6 +12,7 @@ use access to data science tools to motivate+encourage K-12
 underrepresented populations in STEM?
 
 STEM students still learn concepts with static textbooks and tables.
+This dated educational practice is a barrier to inclusive learning. 
 Teachers must either force their expertise into the textbook
 style or use 100's of hours to build a textbook. Both options leave
 students underwhelmed. Modern engineering relies on computer literacy,
@@ -42,6 +43,15 @@ expertise, UConn+Callysto+2i2c, we can create a framework to build and
 distribute open interactive STEM educational resources _and_ train
 educators to use the material and build new open educational resources. 
 
+Our aim is to build upon success of Callysto in Canada, the Carpentries
+globally and OpenScapes in the US to create open and inclusive data
+science resources for STEM students. We will develop new open
+educational resources, supplement content with best practices, and the
+teachers train teachers program, and leverage ongoing CanCODE 3.0
+funding with Callysto to build international partnerships with 2i2c and
+other networks. Accomplishing these tasks will create new educational
+resources for STEM students that are more interactive and inclusive. 
+
 4. name, institute, address, telephone, email (PI + co-PIs)
 
 Ryan C. Cooper
@@ -50,9 +60,7 @@ University of Connecticut
 
 5. Name and institution of key collaborators + contractors
 
-Byron Chu
-Callysto
-_maybe using collaboration as contract work?_
+Byron Chu - Callysto
 
 2i2c
 
@@ -61,6 +69,16 @@ Development and Innovation: (max 4 years) + (max $2,000,000)
 
 7. estimated total budget request
 Development and Innovation: (max 4 years) + (max $2,000,000)
+
+With $2,000,000 we plan to divide the budget into 
+
+1. project lead $150,000 / year: salary and RA
+2. trainer/ambassador: $100,000 / year
+3. infrastructure and hub support: $50,000 / year
+4. content development program: $100,000 / year
+5. training events: $100,000 / year
+
+__total: $500,000 / year x 4 years = $2,000,000__
 
 Format + page limit: fill in a response to each of the 7 areas above.
 Project description must be <3500 characters. 
