@@ -1,7 +1,18 @@
 # Data Science curriculum discussion
-_based upon [Departmet of Education CFP](https://ies.ed.gov/funding/pdf/2022_84305A.pdf)_
+_based upon [Department of Education CFP](https://ies.ed.gov/funding/pdf/2022_84305A.pdf)_
 
 @cooperrc 
+
+## 2021/08/05 - IES Exploration + Dev/Innovation Topics
+- https://ies.ed.gov/director/sro/ <- review process
+- Education Research Competition:
+    - identify topic
+    - project type: guides type of work
+        - exploration: understand factors that affect learning outcomes (student skills, etc.) -> understand theory to lead to dev/innov
+        - dev/innov: develop an intervention (program/policy/curriculum) 2-3 years iteratively developing and pilot testing
+
+
+
 
 [Syzygy](https://intro.syzygy.ca/introduction/) at PIMS
 
