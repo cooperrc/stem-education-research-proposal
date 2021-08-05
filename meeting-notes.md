@@ -1,4 +1,6 @@
 # Data Science curriculum discussion
+- [Mod_01 HW]
+- [Mod_01 Project]
 _based upon [Department of Education CFP](https://ies.ed.gov/funding/pdf/2022_84305A.pdf)_
 
 @cooperrc 
@@ -10,8 +12,39 @@ _based upon [Department of Education CFP](https://ies.ed.gov/funding/pdf/2022_84
     - project type: guides type of work
         - exploration: understand factors that affect learning outcomes (student skills, etc.) -> understand theory to lead to dev/innov
         - dev/innov: develop an intervention (program/policy/curriculum) 2-3 years iteratively developing and pilot testing
-
-
+- Need someone on the proposal with grant management experience
+- must conduct a pilot study as part of dev/innov
+- [Cost analysis](https://ies.ed.gov/seer/cost_analysis.asp)
+- No requirements for nationality of researchers. The project just needs
+  to be relevant to U.S. education.  Note that budgets for non-U.S.
+  institutions cannot charge indirect costs.
+- you don't need external evaluators
+- dev/innov: 
+    - new or modified
+    - significance: why is it improvement? leanrning? user-friendly? 
+    - clear: here is the "value proposition"
+    - this "online learning tool" will "lead to better learning"
+    - here is why the additional components needs the additional
+      development
+    - useability, feasibility, how to support implementation
+    - can teachers+admin use as intended?
+    - research aims: is this working as intended? is this better than
+      current practice
+    - how much will this cost?
+    - use RFA (recommendations sections) vocabulary
+- do the personnel have the necessary experience?
+    - science education
+    - expertise with tech products
+    - expertise with stats
+    - highlight in personnel section
+    - interdisciplinary teams
+- Articulate the aims early+often pg 1 of Narrative
+- Strong "theory of change" that is grounded in literature is important
+    - logic model = visual representation mediators/moderators and outcomes (influences
+      that affect the students)
+    - teach about sci inquiry that has not been done, if I construct
+      product, then that would lead to improvement in sci inquiry
+    - do a thorough review of these hypotheses (most recent knowledge)
 
 
 [Syzygy](https://intro.syzygy.ca/introduction/) at PIMS
